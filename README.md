@@ -77,10 +77,17 @@ Fiyatların milyonlarca TL düzeyinde ve geniş bir aralıkta (169 bin – 1,8 m
 |---|---|
 | `konut_fiyat_tahmini.ipynb` | Analiz not defteri — veri temizleme, EDA, modelleme (çıktılarıyla birlikte) |
 | `Real Estate in ISTANBUL (Emlakjet).csv` | Kullanılan veri seti |
-| `Ön İşleme ve Keşifsel Veri Analizi Raporu.docx` | Veri temizleme adımları ve EDA bulguları |
-| `Görselleştirme, Yorumlama ve Tartışma Belgesi.docx` | Grafikler, model yorumu, toplumsal etki tartışması |
-| `Etik Tefekkür Belgesi.docx` | Veri kaynağı ve model kullanımına dair etik değerlendirme |
 | `Proje Sunumu.pptx` | Proje sunumu (37 slayt) |
+
+### Raporlar
+
+Teslim edilen Word belgeleri depo kökünde durmaktadır; aşağıdaki Markdown sürümleri GitHub üzerinde doğrudan okunabilir (içerik birebir aynıdır):
+
+| Rapor | Markdown | Word |
+|---|---|---|
+| Ön işleme ve keşifsel veri analizi | [raporlar/on-isleme-ve-eda.md](raporlar/on-isleme-ve-eda.md) | `Ön İşleme ve Keşifsel Veri Analizi Raporu.docx` |
+| Görselleştirme, yorumlama ve tartışma | [raporlar/gorsellestirme-yorumlama-tartisma.md](raporlar/gorsellestirme-yorumlama-tartisma.md) | `Görselleştirme, Yorumlama ve Tartışma Belgesi.docx` |
+| Etik tefekkür | [raporlar/etik-tefekkur.md](raporlar/etik-tefekkur.md) | `Etik Tefekkür Belgesi.docx` |
 
 ## Çalıştırma
 
