@@ -8,13 +8,13 @@ Emlakjet İstanbul **satılık** konut ilanları üzerinden fiyat tahmini yapan 
 
 ## Ekip
 
-| Öğrenci No | Ad Soyad |
-|---|---|
-| 22yöbi1041 | Çağan Hatun |
-| 23yöbi1039 | İrem Arslan |
-| 20yöbi1011 | Serdar Onur Karadağ |
-| 21yöbi1014 | Bekir Kadir Demiraslan |
-| 23yöbi1053 | Tolga Olguner |
+Beş kişilik takım projesidir:
+
+- Çağan Hatun
+- İrem Arslan
+- Serdar Onur Karadağ
+- Bekir Kadir Demiraslan
+- Tolga Olguner
 
 ## Veri Seti
 
