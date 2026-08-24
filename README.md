@@ -2,7 +2,7 @@
 
 Emlakjet İstanbul **satılık** konut ilanları üzerinden fiyat tahmini yapan makine öğrenmesi projesi. Veri temizleme, keşifsel veri analizi (EDA), öznitelik mühendisliği ve regresyon modellemesi adımlarını kapsar.
 
-> **Not:** Proje başlangıçta kiralık konut üzerine planlanmış (depo adı bu nedenle `istanbul-kiralik-konut-fiyat-tahmini`), ancak kullanılan veri seti tamamen satılık ilanlardan oluştuğu için model **satış fiyatı** tahmin etmektedir.
+> **Not:** Proje başlangıçta kiralık konut üzerine planlanmış, ancak kullanılan veri seti tamamen satılık ilanlardan oluştuğu için model **satış fiyatı** tahmin etmektedir.
 
 **YÖBİ4487.1 Özel Konular: Makine Öğrenmesi** dersi kapsamında geliştirilmiş takım projesidir.
 
@@ -81,7 +81,7 @@ Fiyatların milyonlarca TL düzeyinde ve geniş bir aralıkta (169 bin – 1,8 m
 
 ### Raporlar
 
-Teslim edilen Word belgeleri depo kökünde durmaktadır; aşağıdaki Markdown sürümleri GitHub üzerinde doğrudan okunabilir (içerik birebir aynıdır):
+Teslim edilen Word belgeleri depo kökünde durmaktadır; aşağıdaki Markdown sürümleri GitHub üzerinde doğrudan okunabilir. Markdown sürümlerinde, veri setiyle çelişen "kiralık" ifadeleri "satılık" olarak düzeltilmiştir; bunun dışında metin aynıdır.
 
 | Rapor | Markdown | Word |
 |---|---|---|
@@ -108,9 +108,9 @@ Not defterinin ilk hücrelerinde Colab'a özel `files.upload()` çağrısı bulu
 
 Sunum videosu, depo geçmişini şişirmemesi için sürüm eki olarak yüklenmiştir:
 
-**[Sunum videosunu indir (59,5 MB)](https://github.com/tolguner/istanbul-kiralik-konut-fiyat-tahmini/releases/download/v1.0/Sunum.Videosu.mp4)**
+**[Sunum videosunu indir (59,5 MB)](https://github.com/tolguner/istanbul-konut-fiyat-tahmini/releases/download/v1.0/Sunum.Videosu.mp4)**
 
-Tüm sürümler: [Releases](https://github.com/tolguner/istanbul-kiralik-konut-fiyat-tahmini/releases)
+Tüm sürümler: [Releases](https://github.com/tolguner/istanbul-konut-fiyat-tahmini/releases)
 
 ## Gereksinimler
 
