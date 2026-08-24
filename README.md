@@ -99,7 +99,11 @@ Not defterinin ilk hücrelerinde Colab'a özel `files.upload()` çağrısı bulu
 
 ## Sunum Videosu
 
-Sunum videosu boyutu nedeniyle depoya dahil edilmemiştir (`.gitignore` ile hariç tutulmuştur).
+Sunum videosu, depo geçmişini şişirmemesi için sürüm eki olarak yüklenmiştir:
+
+**[Sunum videosunu indir (59,5 MB)](https://github.com/tolguner/istanbul-kiralik-konut-fiyat-tahmini/releases/download/v1.0/Sunum.Videosu.mp4)**
+
+Tüm sürümler: [Releases](https://github.com/tolguner/istanbul-kiralik-konut-fiyat-tahmini/releases)
 
 ## Gereksinimler
 
