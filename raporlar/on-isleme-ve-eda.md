@@ -1,10 +1,10 @@
 # Ön İşleme ve Keşifsel Veri Analizi (EDA) Özet Raporu
 
-> Bu belge, `Ön İşleme ve Keşifsel Veri Analizi Raporu.docx` dosyasının Markdown'a dönüştürülmüş hâlidir. Metin içeriği değiştirilmemiştir.
+> Bu belge, `Ön İşleme ve Keşifsel Veri Analizi Raporu.docx` dosyasının Markdown'a dönüştürülmüş hâlidir. Kullanılan veri setinin tamamı satılık ilanlardan oluştuğu için, orijinal metinde geçen "kiralık" ifadeleri "satılık" olarak düzeltilmiştir; bunun dışında içeriğe dokunulmamıştır.
 
 ## 1. Veri Setinin Tanımı
 
-Bu çalışmada kullanılan veri seti, İstanbul'da yer alan emlak ilanlarından elde edilmiştir. Veri setinde dairelerin fiyatı, oda sayısı, metrekare bilgisi, bulunduğu kat, ısıtma tipi ve konum gibi değişkenler yer almaktadır. Toplamda binlerce satır ve birçok sütun bulunmaktadır. Bu veriler kullanılarak, kiralık konut fiyatlarının tahmin edilmesi amacıyla bir model oluşturulacaktır. Öncelikle veri temizleme ve keşifsel veri analizi (EDA) adımlarıyla, verinin daha sağlıklı hale getirilmesi hedeflenmiştir.
+Bu çalışmada kullanılan veri seti, İstanbul'da yer alan emlak ilanlarından elde edilmiştir. Veri setinde dairelerin fiyatı, oda sayısı, metrekare bilgisi, bulunduğu kat, ısıtma tipi ve konum gibi değişkenler yer almaktadır. Toplamda binlerce satır ve birçok sütun bulunmaktadır. Bu veriler kullanılarak, satılık konut fiyatlarının tahmin edilmesi amacıyla bir model oluşturulacaktır. Öncelikle veri temizleme ve keşifsel veri analizi (EDA) adımlarıyla, verinin daha sağlıklı hale getirilmesi hedeflenmiştir.
 
 ## 2. Veri Temizleme Adımları
 
@@ -28,4 +28,4 @@ Bu çalışmada kullanılan veri seti, İstanbul'da yer alan emlak ilanlarından
 - Kat bilgisi serbest metin şeklinde olduğundan, modele dahil edilmeden önce standartlaştırılmalıdır. Bunun için "kat seviyesi" gibi sayısal değişkenler türetilebilir.
 - İlçe bilgisi model için kritik önem taşımaktadır. İlçelere göre ortalama fiyat veya m² fiyatı gibi yeni değişkenler eklenerek model güçlendirilebilir.
 - Hedef değişken olan fiyatın dağılımı sağa çarpık olduğu için log dönüşümü uygulanarak model performansı artırılabilir.
-- Bu analizler sonucunda, veri seti makine öğrenmesi modeline hazır hale getirilmiş ve İstanbul'daki kiralık konut fiyatlarının daha doğru tahmin edilebilmesi için gerekli temel adımlar atılmıştır.
+- Bu analizler sonucunda, veri seti makine öğrenmesi modeline hazır hale getirilmiş ve İstanbul'daki satılık konut fiyatlarının daha doğru tahmin edilebilmesi için gerekli temel adımlar atılmıştır.

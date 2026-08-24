@@ -1,10 +1,10 @@
 # Görselleştirme, Yorumlama ve Tartışma Belgesi
 
-> Bu belge, `Görselleştirme, Yorumlama ve Tartışma Belgesi.docx` dosyasının Markdown'a dönüştürülmüş hâlidir. Metin içeriği değiştirilmemiştir. Belgede atıfta bulunulan grafikler `Proje Sunumu.pptx` dosyasında ve `konut_fiyat_tahmini.ipynb` not defterinin çıktılarında yer almaktadır.
+> Bu belge, `Görselleştirme, Yorumlama ve Tartışma Belgesi.docx` dosyasının Markdown'a dönüştürülmüş hâlidir. Kullanılan veri setinin tamamı satılık ilanlardan oluştuğu için, orijinal metinde geçen "kiralık" ifadeleri "satılık" olarak düzeltilmiştir; bunun dışında içeriğe dokunulmamıştır. Belgede atıfta bulunulan grafikler `Proje Sunumu.pptx` dosyasında ve `konut_fiyat_tahmini.ipynb` not defterinin çıktılarında yer almaktadır.
 
 ## 1. Giriş
 
-Bu çalışma, İstanbul'daki kiralık konut ilanlarından elde edilen veriler kullanılarak daire fiyatlarını tahmin eden bir regresyon modeli geliştirmeyi amaçlamaktadır.
+Bu çalışma, İstanbul'daki satılık konut ilanlarından elde edilen veriler kullanılarak daire fiyatlarını tahmin eden bir regresyon modeli geliştirmeyi amaçlamaktadır.
 
 Veri temizleme, keşifsel veri analizi (EDA), modelleme, yorumlanabilirlik ve etik farkındalık bileşenleri birlikte ele alınmıştır.
 
@@ -69,7 +69,7 @@ Veri temizleme, keşifsel veri analizi (EDA), modelleme, yorumlanabilirlik ve et
 
 Bu çalışmada:
 
-- İstanbul'daki kiralık konut fiyatları için veri temizliği ve görselleştirmeler yapılmış,
+- İstanbul'daki satılık konut fiyatları için veri temizliği ve görselleştirmeler yapılmış,
 - Regresyon modeli kurulmuş,
 - Modelin öznitelik önemi ve açıklanabilirliği tartışılmış,
 - Etik ve toplumsal boyutlar değerlendirilmiştir.
