@@ -2,8 +2,6 @@
 
 Emlakjet İstanbul **satılık** konut ilanları üzerinden fiyat tahmini yapan makine öğrenmesi projesi. Veri temizleme, keşifsel veri analizi (EDA), öznitelik mühendisliği ve regresyon modellemesi adımlarını kapsar.
 
-> **Not:** Proje başlangıçta kiralık konut üzerine planlanmış, ancak kullanılan veri seti tamamen satılık ilanlardan oluştuğu için model **satış fiyatı** tahmin etmektedir.
-
 **YÖBİ4487.1 Özel Konular: Makine Öğrenmesi** dersi kapsamında geliştirilmiş takım projesidir.
 
 ## Ekip
