@@ -114,3 +114,7 @@ Tüm sürümler: [Releases](https://github.com/tolguner/istanbul-konut-fiyat-tah
 
 - Python 3
 - pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## Lisans
+
+MIT — bkz. [LICENSE](LICENSE). `Proje Sunumu.pptx` akademik çalışma olarak lisans kapsamı dışındadır.
