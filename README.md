@@ -79,7 +79,7 @@ Fiyatların milyonlarca TL düzeyinde ve geniş bir aralıkta (169 bin – 1,8 m
 
 ### Raporlar
 
-Teslim edilen Word belgeleri depo kökünde durmaktadır; aşağıdaki Markdown sürümleri GitHub üzerinde doğrudan okunabilir. Markdown sürümlerinde, veri setiyle çelişen "kiralık" ifadeleri "satılık" olarak düzeltilmiştir; bunun dışında metin aynıdır.
+Teslim edilen Word belgeleri depo kökünde durmaktadır; aşağıdaki Markdown sürümleri GitHub üzerinde doğrudan okunabilir. Markdown sürümleri, veri setiyle uyumlu olacak şekilde küçük terim düzeltmeleri içerir; bunun dışında metin teslim edilen belgelerle aynıdır.
 
 | Rapor | Markdown | Word |
 |---|---|---|
