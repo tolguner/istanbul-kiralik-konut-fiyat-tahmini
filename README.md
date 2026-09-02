@@ -117,4 +117,5 @@ Tüm sürümler: [Releases](https://github.com/tolguner/istanbul-konut-fiyat-tah
 
 ## Lisans
 
-MIT — bkz. [LICENSE](LICENSE). `Proje Sunumu.pptx` akademik çalışma olarak lisans kapsamı dışındadır.
+MIT — bkz. [LICENSE](LICENSE). `Proje Sunumu.pptx` ve `Real Estate in ISTANBUL (Emlakjet).csv`
+akademik çalışma / üçüncü taraf veri kaynağı olarak lisans kapsamı dışındadır.
